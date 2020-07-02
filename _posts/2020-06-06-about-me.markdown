@@ -1,0 +1,19 @@
+---
+title:  "关于我"
+subtitle: "About Me"
+author: "徐晨"
+avatar: "img/authors/xuchen.jpg"
+image: "img/a.jpg"
+date:   2020-06-06 12:12:12
+---
+
+# 联系方式
+```shell
+️电话：18172380214 徐经理（微信同号）
+
+邮箱：1259122844@qq.com
+
+地址：安园东路18号广西工业器材A1-A8
+
+欢迎大家联系，随时为大家服务！
+```

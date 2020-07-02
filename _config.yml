@@ -1,0 +1,7 @@
+# Site settings
+title: 广西网联电缆
+description: 广西名牌产品，广西著名商标
+keywords: 电缆
+author: xuche
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
